@@ -38,7 +38,7 @@ WhatsApp Export (.txt) → Process → Structured Markdown → Claude Project �
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/whatsapp-group-knowledge.git
+git clone https://github.com/ps1709/whatsapp-group-knowledge.git
 cd whatsapp-group-knowledge
 
 # Run the processor
@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [Setup Guide](docs/setup_guide.md)
-2. Open an [Issue](https://github.com/YOUR_USERNAME/whatsapp-group-knowledge/issues)
+2. Open an [Issue](https://github.com/ps1709/whatsapp-group-knowledge/issues)
 
 ---
 
