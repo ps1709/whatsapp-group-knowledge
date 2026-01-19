@@ -1,0 +1,46 @@
+[15/01/2025, 09:30:15] Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+[15/01/2025, 09:30:20] Rahul created group "Gadget Enthusiasts"
+[15/01/2025, 09:31:45] Rahul: Hey everyone! Welcome to our gadget discussion group 🎉
+[15/01/2025, 09:32:10] Priya: Thanks for adding me! Excited to be here
+[15/01/2025, 09:33:22] Amit: 👋 Hello all!
+[15/01/2025, 10:15:30] Rahul: Has anyone tried the new Pixel 8 Pro? Thinking of upgrading
+[15/01/2025, 10:18:45] Priya: I've been using it for 2 months now. The camera is absolutely amazing, especially for night photography
+[15/01/2025, 10:20:12] Amit: I'm still on iPhone 15 Pro. The ecosystem keeps me locked in tbh
+[15/01/2025, 10:22:33] Rahul: @Priya how's the battery life? That was my concern
+[15/01/2025, 10:25:18] Priya: Battery is decent - I get through a full day easily. The adaptive battery feature really helps
+[15/01/2025, 11:00:45] Neha: Just joined! What are we discussing?
+[15/01/2025, 11:02:30] Rahul: Phones right now! Any recommendations Neha?
+[15/01/2025, 11:05:22] Neha: I recently got the OnePlus 12. Best value flagship in my opinion. The charging speed is insane - 0 to 100 in like 25 minutes
+[16/01/2025, 14:30:00] Amit: Anyone using good wireless earbuds? My AirPods are dying
+[16/01/2025, 14:35:20] Priya: I love my Sony WH-1000XM5! The noise cancellation is incredible
+[16/01/2025, 14:36:45] Rahul: Those are headphones not earbuds 😅 But I agree Sony makes great audio stuff
+[16/01/2025, 14:38:12] Priya: Oops lol. For earbuds, I'd say the Sony WF-1000XM5 are the best. Same great ANC in earbud form
+[16/01/2025, 14:40:33] Neha: I use Galaxy Buds 2 Pro. Great if you're in the Samsung ecosystem
+[16/01/2025, 14:42:18] Amit: What about for calls? I need good mic quality for work calls
+[16/01/2025, 14:45:30] Priya: For calls specifically, Jabra Elite 85t are excellent. Used them for all my meetings
+[17/01/2025, 10:00:15] Rahul: Question - best laptop for programming? Budget around $1500
+[17/01/2025, 10:05:22] Amit: MacBook Air M3 without a doubt. The battery life is unreal and it handles everything I throw at it
+[17/01/2025, 10:08:45] Neha: If you want Windows, ThinkPad X1 Carbon is the gold standard. Amazing keyboard
+[17/01/2025, 10:12:30] Priya: I'd also consider the Framework Laptop if you like repairability and upgrades
+[17/01/2025, 10:15:18] Rahul: Framework looks interesting! Never heard of it before
+[17/01/2025, 10:18:22] Priya: It's modular - you can swap out ports, upgrade RAM, etc. Great for longevity
+[18/01/2025, 16:20:00] Neha: Heads up - Amazon has the Sony WH-1000XM5 on sale! ₹22,990 down from ₹29,990
+[18/01/2025, 16:22:15] Amit: That's a great deal! Link?
+[18/01/2025, 16:23:30] Neha: <Media omitted>
+[18/01/2025, 16:25:45] Rahul: Thanks for sharing! Almost pulled the trigger
+[18/01/2025, 16:28:12] Priya: I got mine at full price 😭 but worth every rupee
+[19/01/2025, 09:00:00] Amit: My laptop keyboard stopped working. Any fix before I take it to service?
+[19/01/2025, 09:05:30] Rahul: Have you tried external keyboard to rule out software issue?
+[19/01/2025, 09:08:45] Amit: Good idea, let me try
+[19/01/2025, 09:15:22] Amit: External keyboard works fine. So it's definitely a hardware issue
+[19/01/2025, 09:18:30] Neha: Could be loose ribbon cable. If you're comfortable opening it up, check the connection
+[19/01/2025, 09:20:15] Amit: Not confident doing that myself. Will take it to the service center
+[19/01/2025, 09:22:45] Priya: Which laptop is it? Some have known keyboard issues
+[19/01/2025, 09:25:30] Amit: It's a 2021 MacBook Pro. The butterfly keyboard era 😅
+[19/01/2025, 09:28:18] Rahul: Ah the infamous butterfly keyboard! Apple has a repair program for those I think
+[19/01/2025, 09:30:00] Amit: Really? Let me check that out. Thanks!
+[20/01/2025, 11:00:00] Priya: Anyone into smart home stuff? Just set up my first Hue lights
+[20/01/2025, 11:05:22] Neha: I have a full Alexa setup - Echo, smart plugs, Ring doorbell. Love it
+[20/01/2025, 11:08:45] Rahul: Been thinking about getting a robot vacuum. Any recommendations?
+[20/01/2025, 11:12:30] Neha: Roborock S8 Pro Ultra is the best but expensive. iRobot Roomba j7+ is great mid-range option
+[20/01/2025, 11:15:18] Priya: I have the Roomba and it's been solid. The obstacle avoidance is impressive
